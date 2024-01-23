@@ -1,8 +1,8 @@
 # IPAddressControl ![ipAddr ctr](https://github.com/liming467/IPAddressControl/blob/main/img/ipaddrCtr.png)
 
-ip address control similar with mfc IP ADDRESS  wrote in c++ and qt
+ip address control similar with mfc IP ADDRESS  wrote in c++ with QT. 
 
-Whole vs(qt with c++) project can be also seen as a test prj of IPAddressControl.  
+The whole vs project can be also seen as a test prj of IPAddressControl.  
 ![mainwindow](https://github.com/liming467/IPAddressControl/blob/main/img/mainwindow-ui.png)
 
 
